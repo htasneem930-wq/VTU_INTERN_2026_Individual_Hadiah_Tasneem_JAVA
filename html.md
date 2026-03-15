@@ -454,6 +454,8 @@ Student ID: 1
 Subject: Java
 Marks: 85
 ```
+# Screenshot 
+<img width="1912" height="876" alt="image" src="https://github.com/user-attachments/assets/5d3716e6-2e29-4b37-af7e-09214bdb3a9c" />
 
 ---
 
